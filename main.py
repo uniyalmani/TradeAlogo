@@ -3,10 +3,10 @@ import pandas as pd
 import pandas_ta as ta
 import matplotlib.pyplot as plt
 
-API_KEY = "e2ff1142c1a2f1a1067b27e38aa072e8"
+API_KEY = 
 Vendor_Code = "HS1765_API"
-UserId = "HS1765"
-password = "Algotr#10"
+UserId = 
+password = 
 Totp = "1965"
 
 def login():
